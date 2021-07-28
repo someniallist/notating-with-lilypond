@@ -6,8 +6,8 @@
 \relative c' {
   c8\mf c g' g
   a a <g d>4
-  f8 f e e d d 
-  c1
+  f8 f e e 
+  d d c4
 }
 
 \addlyrics {
