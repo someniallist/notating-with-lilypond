@@ -4,7 +4,7 @@
 }
 
 \relative c' {
-  c8\mf c g' g'
+  c8\mf c g' g
   a a g4
   f8 f e e
   d d c1
